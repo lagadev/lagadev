@@ -82,11 +82,11 @@ I enjoy working with **Python, JavaScript, and web technologies** to create usef
 
 <p align="center">
 
-<a href="https://t.me/yourusername">
+<a href="https://t.me/lagatechofficial">
 <img src="https://img.shields.io/badge/Telegram-Developer-blue?style=for-the-badge&logo=telegram" />
 </a>
 
-<a href="https://youtube.com/@yourchannel">
+<a href="https://youtube.com/@lagatech">
 <img src="https://img.shields.io/badge/YouTube-Tech%20Creator-red?style=for-the-badge&logo=youtube" />
 </a>
 
